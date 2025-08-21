@@ -1,0 +1,10 @@
+https://youtu.be/xS4ISh6ZehU
+
+npm init -y
+npm install -D tailwindcss@3
+npx tailwindcss init
+npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+
+
+------------------------------------------
+00 : 11 : 35
